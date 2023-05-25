@@ -1,7 +1,5 @@
 //SPDX-License-Identifier: MIT
 //Bear Network - BRNKC - From TAIWAN https://bearnetwork.net
-//熊網區塊鏈的目標將圍繞項目與質量、企業、本地化、行業、環境、教育、組織、公益和可持續發展。
-
 pragma solidity >0.5.16 <1.0.0;
 
 import "@openzeppelin/contracts-upgradeable@4.8.0/token/ERC20/ERC20Upgradeable.sol";
